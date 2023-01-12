@@ -2,6 +2,6 @@
 První ropozitář
 
 
-#seznam
--prvni
--druhy
+# seznam
+- prvni
+- druhy
